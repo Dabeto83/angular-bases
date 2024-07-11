@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { MainPageComponent } from './dbz/pages/main-page.component';
 
 @Component({
   selector: 'app-root',
